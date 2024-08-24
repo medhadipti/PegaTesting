@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Pega-Codeset-Patch: 
+Operator: 20012472@mydbs.ie
+Pega-Codeset-Name: Customer
+ArtifactVersion: 01.01.01
+Pega-Archive-Type: ApplicationBundle
+ArtifactType: application
+Pega-Codeset-Version: 06-01-01
+ArtifactName: Security
+Name: Security_010101_20240824T015025_GMT.zip
+Type: Product
+Synchronizable: false
+Product-Creation-Date: 2024-Aug-24 04:00:00
+Engine-Version: 08-24-02
+Export-Date: 2024-Aug-24 01:50:28
+Instance-Count: 1268
+Archive-Type: PegaArchive
+PRPC-Engine: 8.24.1 PRPC-8.24.1-195 ()
+
+Name: FileMetadata
+
